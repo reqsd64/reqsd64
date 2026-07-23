@@ -1,18 +1,10 @@
 <h2 align="center">
-  Hey there!
   <img
     height="35"
     alt="Kyubey"
     src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
   />
 </h2>
-
-<p align="center">
-  Developer focused on Python, C, C++, c#, Linux and backend systems.
-</p>
-
-<h3 align="center">Languages & Tools</h3>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,c#,linux,git" alt="Languages and tools" />
 </p>
